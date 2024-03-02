@@ -1,0 +1,1 @@
+# namada_idexer_validators
