@@ -1,0 +1,675 @@
+{
+    
+    "DDD03FDA5D3B53DE95946929B461AED5B5FBDA0C": {
+        "alias": "Test",
+        "nam_address": "TEST-tnam1q93th4stcuxfs0h8kn9uw0uhdj59dfa5hu768v4t",
+        "consensus_key_pk": "TEST_tpknam1qpr7ftzpldh7jysq5jxnud3k7g4zxqxn9stm48855mxqxx6cefvh5yg4sec",
+        "net_address": "TEST-65.109.85.203:26656"
+    },
+    "52894D2ABA1614EF24CC1DDAE127A7A2386DE3BB": {
+        "alias": "Stakeflow",
+        "nam_address": "tnam1q93th4stcuxfs0h8kn9uw0uhdj59dfa5hu768v4t",
+        "consensus_key_pk": "tpknam1qpr7ftzpldh7jysq5jxnud3k7g4zxqxn9stm48855mxqxx6cefvh5yg4sec",
+        "net_address": "65.109.85.203:26656"
+    },
+    "414E9DA2630AD0EC7E20C46F43B32AEA3F6092AB": {
+        "alias": "GatewayFM",
+        "nam_address": "tnam1qyjj4xfvzxdmeu0n8dx7qycdy0d79sasrukz2uwp",
+        "consensus_key_pk": "tpknam1qpwew2tyf2tfqv6prutgwmmku70tjt7kgy2mfm7gzwgz5hgxayxlzds6f7e",
+        "net_address": "172.17.0.3:26656"
+    },
+    "33A0BF13D95CF39E2B3A8AE1A7D7BE4DBADDF9F5": {
+        "alias": "u410",
+        "nam_address": "tnam1qx284ljyy485hxj82xwvd0ettlj73nkvvghkhhmf",
+        "consensus_key_pk": "tpknam1qqsg9jz8tvllp0tygd7uzxy7x76e5xc4q6rj2dyj8stahqp7p4ymgahupyj",
+        "net_address": "34.125.137.100:26656"
+    },
+    "1FE9464B1EB36CEB36EEA064D760C53FCFEBB05A": {
+        "alias": "ArchitectNodes",
+        "nam_address": "tnam1qx7xkpd7e3xjl4guhnqs4xycahwpfcsfpq4q449g",
+        "consensus_key_pk": "tpknam1qqp2hc8q8mqql7atwwt2x2w26y7x74jk28kx27wlzvz2yadgw8ucqj46eln",
+        "net_address": "65.109.32.148:26656"
+    },
+    "0F74BC7A67A01AF4D2719FF0196AEC3D7ED9D746": {
+        "alias": "citadelone",
+        "nam_address": "tnam1qxzcsf09pwrnz4p78wjunyxnfytas6qfs5p5wmta",
+        "consensus_key_pk": "tpknam1qq9sklea7yxzm3555lrp2vjawe2w43kdpqhxeyw7d47rt5800cq85g0le3q",
+        "net_address": "141.95.33.198:36656"
+    },
+    "75C3B0560A416016E870205CBD32A22A70EB60CA": {
+        "alias": "888Tnso",
+        "nam_address": "tnam1qy24smlm8tdg8vawx8xh30fxa8kcwnudkvufz9zn",
+        "consensus_key_pk": "tpknam1qpum6ela6y6q5t5j8sp265vxew5mkspmhd0lmpmsnh6xfwrdjdmfq524gkx",
+        "net_address": "162.55.6.163:26656"
+    },
+    "C79B3D05BBB9CED00C9247F244AFBE8A124E62E7": {
+        "alias": "hedji",
+        "nam_address": "tnam1q8r22vfswygw645xpcwt97rcmwgy5xs83gg9vvxc",
+        "consensus_key_pk": "tpknam1qz0j4mmn58l6d946kl4zv6a3q4kffysphxytcmr8qqwyy4y0uq8c2rd5w6a",
+        "net_address": "65.109.72.13:26656"
+    },
+    "498A47A0E996D49281C9567ADA98253C8A99568A": {
+        "alias": "RepublicCrypto",
+        "nam_address": "tnam1qy6eqlwsjud08lclckj3v9nnz8juhsksp5v7jac7",
+        "consensus_key_pk": "tpknam1qryuycd7pd799zgvwrdyqkfncczm4wamyn8q0j7szecwnl623ernc9qcex3",
+        "net_address": "131.153.142.39:26656"
+    },
+    "56A06DC8C64BD28FCCD18C96815198334F20E597": {
+        "alias": "Cosmostation",
+        "nam_address": "tnam1qxgnegx3se9htr05982atux3ytr797s8av39s5vy",
+        "consensus_key_pk": "tpknam1qqcg8t0yc2q8s3eg87962ugq0hm6vjhkft70k26tlwgwnlnrtl4m23ywkk5",
+        "net_address": "95.217.231.107:26656"
+    },
+    "5DB0529A641AEF186C3B01816FD1A839ECE56C34": {
+        "alias": "staking-power",
+        "nam_address": "tnam1q8rwz9lpj0tuw2n246splfan0pqflusj9c29q2q9",
+        "consensus_key_pk": "tpknam1qzdd6rvrzv2cudy5ay70xwyxahrn4ax28zpw77mfflpqn5x9c92ac3py703",
+        "net_address": "94.130.90.47:26656"
+    },
+    "270D091AE90B927E840F5A48CA9B828C82EEBBB9": {
+        "alias": "CroutonDigital",
+        "nam_address": "tnam1qyguekptqut80c2vpyj20fyvg6n0xcld0v73w2hj",
+        "consensus_key_pk": "tpknam1qpe6dxefjcc3s85lx085n2revh0mnx65ns2dx0u94uezeusx0qxqunrs0w2",
+        "net_address": "65.108.238.215:26656"
+    },
+    "A91F885CE7EF7407B0643469D35667AABFD497F5": {
+        "alias": "0xgen",
+        "nam_address": "tnam1q9yhks340njys320pxwlgdk5p0s730ttgvmkul09",
+        "consensus_key_pk": "tpknam1qrz82gx0gjeq47h3w8ew3mvkt9ug89a6yjkmwwsx65reg0w6xs607pqu3h0",
+        "net_address": "65.109.33.26:26656"
+    },
+    "22801417E7D402A67BEBC3399F9C303728AF5244": {
+        "alias": "Jumbo",
+        "nam_address": "tnam1qyw2u3geeet0vn43x8md5ralthz0ydfz2gcyk0p6",
+        "consensus_key_pk": "tpknam1qqkykdxnmhkdm98xfx7grjz320u8lud86c96me45z2ruarxnugdd6vnhj7y",
+        "net_address": "135.181.134.151:36656"
+    },
+    "1586E894E66E6F7ED162DFA94318A7DAB23FBD2F": {
+        "alias": "Crypto_Universe",
+        "nam_address": "tnam1qx2vhw6est5z6stfvjjfx4q9kry2w5k3yycjawjw",
+        "consensus_key_pk": "tpknam1qp030qptp0292jfwu7jtu98w7xcswuffc5gumceywgen7pjpx8xnq6rpjsf",
+        "net_address": "135.181.128.23:26656"
+    },
+    "D9A820FE1CCC4D37E9FBE3B44744EAE301DBCCAF": {
+        "alias": "SimplyStaking",
+        "nam_address": "tnam1qx8wlxvz42vw79m0ruf65rxa0a2d7w9t7y0m84rs",
+        "consensus_key_pk": "tpknam1qpr0w8vasksufm6vncggzgtxqy77xun39myyzy60qgn0nda6vapnzey6s4a",
+        "net_address": "80.64.208.172:26656"
+    },
+    "0EDE9DD15BA3638E3775736415CB585FFE07EDAD": {
+        "alias": "chainbase",
+        "nam_address": "tnam1q9tr7atuhmv26qa4xlu67k7r3wx9wgf47v8xyhtw",
+        "consensus_key_pk": "tpknam1qrrs9d7vlyn2mcclvy8xj5lys3v754jqdqnlfn7jgnf3g6dajdnt65cxxjz",
+        "net_address": "149.28.137.227:26656"
+    },
+    "ACE6FE65DF8A72E8B72CC629AF35723CF14C019A": {
+        "alias": "Luganodes",
+        "nam_address": "tnam1qyputcfm8xuw9u5fgdqqe97gy09v97czvg855kes",
+        "consensus_key_pk": "tpknam1qr0cxc8w5r08jxffq79543rw0nenp9qlwsletmy0m56lamk64z6zkc94xw7",
+        "net_address": "51.77.226.129:26656"
+    },
+    "48216821F0069E11383133493B712179F1268044": {
+        "alias": "Provalidator",
+        "nam_address": "tnam1q8243m5rnsls5jn4yvv0ycjp46a0emppzvzs7j3n",
+        "consensus_key_pk": "tpknam1qr5jsy5g0350lz3wnwpvk80fmj3scwju66xjtvway7hy268cx55a5zdwxde",
+        "net_address": "45.33.86.221:26656"
+    },
+    "CC0722E3A981B96DFA12A28C0B6033CC0B1DE46A": {
+        "alias": "stakepool",
+        "nam_address": "tnam1q8q0g5j4k9ume9lapusf7wz9z3n7t8g4mszfsmtq",
+        "consensus_key_pk": "tpknam1qpwq9qlplsc6695axr7d9dff8vgpdmt0r2rg806jr9q6nhzlvzzxjczzkm0",
+        "net_address": "65.109.158.190:26656"
+    },
+    "04E529330143B40F3FD5ACC93173B5364F0C4895": {
+        "alias": "Stakecito",
+        "nam_address": "tnam1qy4g7aj6ln7rg2tk4qnpqxxhzyrgkh4ngs6w6uwx",
+        "consensus_key_pk": "tpknam1qph8lfnhjyrz949lwn7sdpzvs3chsl6ryqjrwyaywmhtufrugmdrxpfuzyc",
+        "net_address": "0.0.0.0:26656"
+    },
+    "A21CC5CC4C83590F54753D7A859DDBE4D2BDBE5E": {
+        "alias": "L0vd",
+        "nam_address": "tnam1qyz79z2htu35965pgnwfvg97fvspxwdraq9knq93",
+        "consensus_key_pk": "tpknam1qpp6zl08mmykwvp9w6p0ssup4845hgsvdwrmnapktwm0alq2qd66kpsur3l",
+        "net_address": "148.113.1.70:26656"
+    },
+    "BAF27407725385D4930D53A95036FE1C284A2AC5": {
+        "alias": "CitizenWeb3",
+        "nam_address": "tnam1qy8da95gpqslvfn7fytmvny43j050wk84cjuslu6",
+        "consensus_key_pk": "tpknam1qrqrlwr4r39enhtzhg223xs5980s63ml6pjr3ymzf56rmhsz7yf6qmxt3tf",
+        "net_address": "95.216.247.54:26656"
+    },
+    "68B110769FCA9D51E458A25C57C86B060B69079A": {
+        "alias": "WayneWayner",
+        "nam_address": "tnam1q8z9j6lvkay3prylx8k9yjrfet6wfxy26g0nlnfc",
+        "consensus_key_pk": "tpknam1qpkmn3cq905df67xx8qqlxaxjdz6hw92xv3snkcquz8m8sz5rgswjhx8t6z",
+        "net_address": "65.108.199.79:26112"
+    },
+    "760E1E3E067D6796EC9261E8A4374E2DC781C3A5": {
+        "alias": "enso",
+        "nam_address": "tnam1qyv39me8vcfvzy7yxkp0xyl8hpxrp7wrqqsqanfz",
+        "consensus_key_pk": "tpknam1qpnp6c94465rk0p5wjc205w8t6fy7nvev56j9e0yjq3rtggy0flj238as7w",
+        "net_address": "3.85.207.191:26656"
+    },
+    "4A3900BF134EDE08922AC51533E2E8D7CFA26678": {
+        "alias": "OriginStake",
+        "nam_address": "tnam1q9n5lux9msqq6v2dpqhs679zd8muae3xmvu2qpas",
+        "consensus_key_pk": "tpknam1qr8w4sj39ztazrnhfl72esjstu6t8jf85qhtfglvh5hdar2ep6x0zzlcwyv",
+        "net_address": "65.108.101.62:26656"
+    },
+    "10A31951CBF749C3F7FE8EF8E551ED798B1CB1ED": {
+        "alias": "chorusOne",
+        "nam_address": "tnam1qykuvzjdsg2n65mz6tv7hywtn76vru2575vvaekq",
+        "consensus_key_pk": "tpknam1qrmjnh4dke3e44d32plgpk87pm74g9ch8z8s4pcydvg9a602swd22hg9we3",
+        "net_address": "5.199.172.61:26656"
+    },
+    "F33EFC507EC6A4603F828E78900D2FAEB6EDA355": {
+        "alias": "DTEAM",
+        "nam_address": "tnam1q9raezgmgfz6rr68uuv47y8rn0gnufl9zqvdaqes",
+        "consensus_key_pk": "tpknam1qr709mpeuatclj8vz95wyzhqml5gl9vrx4cfwq4krnc07xfl26vwqzhvdlz",
+        "net_address": "95.217.60.22:60856"
+    },
+    "7A27465351C2EAFD51B8853D38DE51D9FB6B3970": {
+        "alias": "pro-nodes75",
+        "nam_address": "tnam1q8hu2fww5t6xqffux6uydq9v7m2jl0wsavpu7vv8",
+        "consensus_key_pk": "tpknam1qpm5x3tm6t7ejuwyrxjwzxv9w3pf9g4hkar3nsuhxv0arsttaccywrw5ajh",
+        "net_address": "65.108.13.212:26656"
+    },
+    "F674C21427A3D37A907FE99DB289B6225104C8AE": {
+        "alias": "UniqLabs",
+        "nam_address": "tnam1qx27rfmjcttqrkvj6dmzg896dlkffqevtc7zd3a6",
+        "consensus_key_pk": "tpknam1qzl58pyetfuu023mzgmwddmcxzcwq6f990fee0sjgy6kf0ggy8uzzayxhpm",
+        "net_address": "158.220.127.197:26656"
+    },
+    "7100A0A64301091CA5D01F39C3B88484325D9034": {
+        "alias": "BlockHunters",
+        "nam_address": "tnam1qylanx3646tlrenvchmcscr5fecewg8t05hz4wcd",
+        "consensus_key_pk": "tpknam1qzkuxy997838jxnjhduns5a5h7p925388zv7kpzf5986rvsmgm74g5rade4",
+        "net_address": "65.109.85.242:26656"
+    },
+    "B1E03795B9CEB1B58FCBEEAB050B00B7CC6AC122": {
+        "alias": "CB-Validator",
+        "nam_address": "tnam1q89k8vjx80qt7v2tstn863nsgzd6mq68tukmxaej",
+        "consensus_key_pk": "tpknam1qqr4g3yusdmrqhsf9yshsterxnv4e9tusyq4qajdrct8ncw62xvmxc96kmd",
+        "net_address": "65.21.69.221:26656"
+    },
+    "2C8300C6D4EE7F9641963DF7B7F53391CC172CB0": {
+        "alias": "EmberStake",
+        "nam_address": "tnam1q9k0jkssxmwdd0g3vpulvl7yp3rv7rnnuyezutcp",
+        "consensus_key_pk": "tpknam1qqeew9frhkc9lth2ds26vy2keen2tejstv79n62vxzn0ka53ylknx4z08w5",
+        "net_address": "38.242.152.80:26656"
+    },
+    "92FDB7CB3EA8A6693FFAEBE9B05B3284568DFEB2": {
+        "alias": "amadison79",
+        "nam_address": "tnam1qxkvddv57k9mzvegwsq0sxty4evwug86jg8r3f8e",
+        "consensus_key_pk": "tpknam1qzhdyhkyw3s84zzep03espfd4as0fltt66uktremjpdgr24g0ae6580wand",
+        "net_address": "109.205.182.127:26656"
+    },
+    "E19BA58E6D3F8BBCC20A510611464F34C3D3AE4C": {
+        "alias": "Keplr",
+        "nam_address": "tnam1qyg76jtxvlmv98jz54v03g48j3zve850eq84j4f2",
+        "consensus_key_pk": "tpknam1qpf0afwrrnw648eevuq8mleqj6j3hj0wf9r89mhz42w24pcv334eusvdeuv",
+        "net_address": "34.107.45.76:26656"
+    },
+    "C8FAE4E62F85B9AF6ED28717B0AC53CF4E052771": {
+        "alias": "nodersteam",
+        "nam_address": "tnam1qxegpxyj8jnr7lvpnatjhamnzq2v33cg3v4nw3yf",
+        "consensus_key_pk": "tpknam1qzd633tl0mj9jrmzpqjvu088rce705sjmt5sjdlsr6k8fj4vcpu357njaqm",
+        "net_address": "65.21.95.160:26656"
+    },
+    "F2ADC4D51000C0AE6A48248B70683B27B27E7020": {
+        "alias": "cryptosjnet",
+        "nam_address": "tnam1qx5al0d7te7lf52p92shnfklssrwqacyx5gs7v5c",
+        "consensus_key_pk": "tpknam1qrqg7k7l504r7xclmqprzp6nz8hag4aqgx4ttxcn3gdp9k74vz3y2jutjxa",
+        "net_address": "142.132.194.124:19904"
+    },
+    "A011FEEC42FE577DFABC3BF3C85A6003B5135D1E": {
+        "alias": "cms-holdings",
+        "nam_address": "tnam1qykx0c3a0v4e2hcza6wphursv8q4xsguzcgn7jg8",
+        "consensus_key_pk": "tpknam1qz4q2t3tf9wvcyr09wksre5j47ktxrl9ygwy3zfl73cj3fayj02c58dprxc",
+        "net_address": "185.172.191.9:26656"
+    },
+    "9B2A90618233DD99AC5E34E3B38DF4486DA7D47D": {
+        "alias": "Notional",
+        "nam_address": "tnam1q8j7hv499zz5rl256pkyh9lwzu7n00u69ywz7dpx",
+        "consensus_key_pk": "tpknam1qzldkl3782nqxndhd8x4pjsld8s9zyhawhwllcpz8e5hga77qhl4xcvrdq7",
+        "net_address": "65.109.117.208:10000"
+    },
+    "A142783CA3758A8935B8A4ABBEAFBED03C007BB0": {
+        "alias": "inmenta",
+        "nam_address": "tnam1q89ra6v5f99rfmhx5qfl5lfl0z393ccdpvg7au6p",
+        "consensus_key_pk": "tpknam1qpzzhe5w2jaes89sajq2qyhwkl2a35hl49dumsrsdazqy7qpxkunck5ph4s",
+        "net_address": "51.89.115.168:26656"
+    },
+    "9256ADF51D05281D787C3D4A52840A27135B8ABB": {
+        "alias": "Staker-Space",
+        "nam_address": "tnam1qytd6junu0qzdh6h7v06fp3k7hhdk4k4m5egwasa",
+        "consensus_key_pk": "tpknam1qpn6rm5jd94urc72ez9ksf26jmf4pdqfy0ny5xzrvww3n9g9fqn0726rsam",
+        "net_address": "131.153.158.193:26656"
+    },
+    "EBFD9287C1D8DEAD3C177CB5AD6EF2FBE7DD14D8": {
+        "alias": "commons-hub",
+        "nam_address": "tnam1q9vrxmlr5dlxu4gslu7xl4dtj5mrygtdrvad78e7",
+        "consensus_key_pk": "tpknam1qpqqnq7gkurp3max5a0t5nh27xrqjw95wjtgd9z94u9v2glh7tplgtkhqdq",
+        "net_address": "185.189.181.99:26656"
+    },
+    "2A049B72D378F26C9CB9CBF50860AF95F70BC860": {
+        "alias": "4t2",
+        "nam_address": "tnam1q8knc8dzdmq7x9tk3x8hfs3rdvhwaa2fy5tkt0uf",
+        "consensus_key_pk": "tpknam1qpjku8dmjpc6j4wcyrhhn6cwm96hvdy5l8t5ly3g53fwnvqjs9gqjk6s6zr",
+        "net_address": "65.108.2.45:26656"
+    },
+    "DCF55C0FC98CD4DBC08AE906883EA33ADAA35F11": {
+        "alias": "NodesGuru",
+        "nam_address": "tnam1qx483yf6qgfffhz3kmkx4tlwjcn0w2as4qr7wjme",
+        "consensus_key_pk": "tpknam1qplaxuj7lm6ppyhmhq7jep67td08pavzrepp69ds6taz32c8mkdm5k7zy0n",
+        "net_address": "141.94.143.203:26656"
+    },
+    "F00D431EDEBA727B0A3E9FE1706B014570E55BFC": {
+        "alias": "2pilot",
+        "nam_address": "tnam1q8uvy3a3xll8lxm5gagv5crvvdrzasmdvqtctla9",
+        "consensus_key_pk": "tpknam1qpksj73qx6dp5tfvz0y8skc6vfjxl65lxuh50d86lc4n6dc2r23gvg7zjtk",
+        "net_address": "103.195.100.160:26656"
+    },
+    "E801458CDDC96D9986D1054D2D06E4AC33407EAA": {
+        "alias": "Umbrella",
+        "nam_address": "tnam1qyagaxpgdaksew8smtxkl9gv8xcqcyngkv5k3ynl",
+        "consensus_key_pk": "tpknam1qruvzx7a6pav0mx5cagn5avy3s6z84zgecdwr48ccfc8lxrzk9q4we9m4sc",
+        "net_address": "104.21.18.94:26656"
+    },
+    "5138CFF8DFB489083B74167873E18ED5CE1587F1": {
+        "alias": "0basevc",
+        "nam_address": "tnam1q8f6lsql03dnvckpqx5ydxtl48k3ntcs8vm8dak7",
+        "consensus_key_pk": "tpknam1qpe849rnvn65r3gyxgkgj9ejcznv356nk07c70v0xmz0d5uhpz58ym3xlgl",
+        "net_address": "218.155.161.169:30600"
+    },
+    "0032B528553B249C774BF05ECE9AF9C7C84734F4": {
+        "alias": "ValidBlocks",
+        "nam_address": "tnam1qycyxsy0k6d7nlklk656unaktnu4ju3j9q5fggzr",
+        "consensus_key_pk": "tpknam1qqxaryr5sx3paa79mjvq4jkxsweudyaf7rqrnd3w7hj5zxf8jun7jfxhnek",
+        "net_address": "195.88.87.74:26656"
+    },
+    "98FBA17933CDBED11FA4DE41B3CA08A7C5E29EF1": {
+        "alias": "stakin",
+        "nam_address": "tnam1qyaqwwhhxxhdll6vwmamga3x8gezqm23qccxt7gq",
+        "consensus_key_pk": "tpknam1qr7awet0ap3jvgtyq2e24497kws2g66hrpyuqpzchxfxc8p9h79f633jn49",
+        "net_address": "65.108.236.229:26656"
+    },
+    "B9CE868C1630C1B86108DB9D25DD5FC330A094E3": {
+        "alias": "informal-systems",
+        "nam_address": "tnam1qyup6x3rtlufvas7ulnrjyhcdnpfmj6emc89zn82",
+        "consensus_key_pk": "tpknam1qz4wc87ewjl7vkvmxt7d4spvl0ml8t2ak4ttfvnqq599anjqcu8r5khxuzn",
+        "net_address": "198.55.59.68:26656"
+    },
+    "E11AAA5F6D45F9D8A5A62996C67EC6B03DD415F9": {
+        "alias": "chainflow",
+        "nam_address": "tnam1q8k3n8s8kxru59rv5elrcet04r8py82jmcw3m8cl",
+        "consensus_key_pk": "tpknam1qqhc3swgrphs66382wls7rypyj9gyp23cxczal2zw35ju7pday3h5lh5jhj",
+        "net_address": "5.199.172.43:26656"
+    },
+    "0E1CFCF387B1CDBCD642323F3B94E67D6B2F931A": {
+        "alias": "Feles-GATADAO",
+        "nam_address": "tnam1qy7u3y3sqltmd68a43lsr0khu8c9y8uyyuzy7sck",
+        "consensus_key_pk": "tpknam1qz3ul629zdlzpc2vefjpe7y0m0hf3r5nmf70t6qayj37vkzqx4dq5h7rueg",
+        "net_address": "65.108.225.186:26656"
+    },
+    "61F0BEB16A4B4EFB93300C6E7CC061791F4939C9": {
+        "alias": "Mandragora",
+        "nam_address": "tnam1q9lurg47yae0ljt7uc2zmzwqgr59c8umdgl2q2zf",
+        "consensus_key_pk": "tpknam1qq7gqz2m6r0ducsvmtxsr7ytvdwj509zj5c3kr42zs8utzzwlc8dy68ct83",
+        "net_address": "142.132.135.125:24656"
+    },
+    "8124B8786535EA0C5B81E2BC66EE658457197B52": {
+        "alias": "Picard",
+        "nam_address": "tnam1q9kg9zlwapdft6fwpgwqck8g0dww6wq6lgs7y8q2",
+        "consensus_key_pk": "tpknam1qq2xc99yvt6778kwphr7tz9cu9cxm3yhzr73ngj4hu0uapw4cafw6mmef2u",
+        "net_address": "3.72.13.72:26656"
+    },
+    "2941DFA08D3FCE703014E9F270BDE9B1C36ABB09": {
+        "alias": "Huginn",
+        "nam_address": "tnam1qyly63yu6gm7zn97ueqz9wjyahy6h8qndyejwp7q",
+        "consensus_key_pk": "tpknam1qp3kkln5tpecynstgzcgh4jhrz66hy9fcv6k3xvqd42ptl8nwthuv49pfp9",
+        "net_address": "135.181.134.148:26656"
+    },
+    "5D201FBAB54BE105C4784C4D752A552771CD1238": {
+        "alias": "BwareLabs",
+        "nam_address": "tnam1qytuqrevscq0v3d4ctn7zsm4qva2x3n7hqra8llg",
+        "consensus_key_pk": "tpknam1qpchtg7lwmsxt60kw2v6vd59h5jch250vm3z0qdvh93xeck3mh4wksn4que",
+        "net_address": "65.108.76.60:36656"
+    },
+    "11BEA6434F204C2F7BE6CB7CF845C44C0FD3FBD2": {
+        "alias": "deNodes",
+        "nam_address": "tnam1qx2xz8ggmzgfgkj5n33fzumq3lept6hf7yqxcrex",
+        "consensus_key_pk": "tpknam1qpr27k4elx6tpl5q6fhvk7alexf7qhpy37yudmhqnn3t88dxjfyyqeq0sya",
+        "net_address": "162.55.80.21:26656"
+    },
+    "93DC731C3F3B1B6561501FD8F0ECC10106E93C53": {
+        "alias": "goto5k",
+        "nam_address": "tnam1q8kkdj7qhusxx7t4r3fs4ej6qpa5ffdwacrs3237",
+        "consensus_key_pk": "tpknam1qzaj5tj3jrplyer6taw88v5ug4t2efjke0msj8juylqfzu9hqn4rvvv7df6",
+        "net_address": "162.55.230.123:26656"
+    },
+    "D1F4FAF06AA13FD2FEA350A0AE631F53AF914285": {
+        "alias": "STCCapital",
+        "nam_address": "tnam1q9u2gagf894tx52hs0apcsepj0zzt0hp7yftpwu8",
+        "consensus_key_pk": "tpknam1qzffz000g5dglkqzh6jutcy4ype695d3j2htgnucxlm5e7hvfyzpgef4pc4",
+        "net_address": "62.171.156.190:26656"
+    },
+    "640A18C5B678E929229B68702BBEA5E423A5B75A": {
+        "alias": "kintsugi",
+        "nam_address": "tnam1q97748flqlna0m0kj4703xgmv7x8cl7amcekcc94",
+        "consensus_key_pk": "tpknam1qqgl8uh87h3ajy55cd782tg6l35kzuwtew48dunr0q76k8675e3y6flymrq",
+        "net_address": "65.109.61.50:26656"
+    },
+    "98E914111337A76C8AEA40CAB4859F8881A96BDC": {
+        "alias": "dsrvlabs",
+        "nam_address": "tnam1qxzpknsjdadvapd9vu0xk3kgak6ndkgwvutsh2yp",
+        "consensus_key_pk": "tpknam1qzmenqclegmezk6uj5j493qne00v3zus8w4gwdpju5zh54ngdwy82xryrwf",
+        "net_address": "167.71.55.25:26656"
+    },
+    "C07BF1F3C689B5A0500A4F8814683A532097C8F4": {
+        "alias": "p2p-org",
+        "nam_address": "tnam1q84tqxcm0l792cvtx8ufe6erx00fwwjtggv925l4",
+        "consensus_key_pk": "tpknam1qzk65tjx92a4e8ru6nr75t37cjgn4nmmlsh7vhkcg24paja8xzl2zm3nwq0",
+        "net_address": "43.131.63.125:26656"
+    },
+    "12553DD365FCD9E919C9143C6FCDF3C5AECFD7BF": {
+        "alias": "Enigma",
+        "nam_address": "tnam1q89xnpnrfsefr9ynj4v8ngdu35me8xudzgn94afm",
+        "consensus_key_pk": "tpknam1qpe8pwyqwhwxmm76wrzcr69y06qgulnz0uxrr7gxtawlnt5gwzk3zuphamk",
+        "net_address": "135.181.246.250:3000"
+    },
+    "EC6B19D15AE26AD7E4B90EB3361DEAFB2D237B91": {
+        "alias": "NocturnalLabs",
+        "nam_address": "tnam1q9txhjcwdl6jzqwfhf2ny73ducj6tv9s3qwr2z4q",
+        "consensus_key_pk": "tpknam1qrut0eqqqzwu6asq6krrnajt2kwcgzlhdz5lu0kkqcndlnfx0ef5gwjr6qn",
+        "net_address": "89.38.98.251:26656"
+    },
+    "72360F050479C6B8650FF004DA59F0859B069FAF": {
+        "alias": "Validatorvn",
+        "nam_address": "tnam1qx7757f5aerzdy3hx4yjaxlzlgyw22rcmvkh6jks",
+        "consensus_key_pk": "tpknam1qzt5qkw5uudnjdp2l72kdwpwmw6hwq0k4lz8hkdv4wxyts28z9ggz9nfg8d",
+        "net_address": "95.217.203.60:26656"
+    },
+    "4364CFE57453CCC8466EF2C74823D85065FBF279": {
+        "alias": "Brightlystake",
+        "nam_address": "tnam1qyrhc87p6uyewa2xtdfv73fu63pxddweuvy5gfjp",
+        "consensus_key_pk": "tpknam1qq8qx2mpvajpqlhzurjn2x68glr4hjqldxl9r797u6wha9gw0puz25lp2n8",
+        "net_address": "65.108.238.167:26666"
+    },
+    "251D3B2A9394EEC54DFC5C314CCA2576CB7E9E01": {
+        "alias": "forest",
+        "nam_address": "tnam1qxlahm9qqxqhyjezsxvrpkn9ajekrkg2xq5v8rz8",
+        "consensus_key_pk": "tpknam1qpvsawf2lwmdftxxqnay8at28nqvpqkr2t2qmcgrgrzq5kz2rya3c0as065",
+        "net_address": "141.94.243.95:26656"
+    },
+    "BBBAAB9275C498FDFA29BFC02C2C9AC5853D9E1A": {
+        "alias": "jasondavies",
+        "nam_address": "tnam1q9xx3f22xla3xtlm0j5h5pxwlpv0q3x7a5acqpn7",
+        "consensus_key_pk": "tpknam1qrj642mqt9mwp06xsud3lnwxujdvd92rptap8acctqwvlwdvgyglw393e5s",
+        "net_address": "54.36.166.159:26656"
+    },
+    "A03DD35257D90840E88B04C91BFC3A0AA728EA16": {
+        "alias": "nodigy",
+        "nam_address": "tnam1qxudgy9lapfkrjmg2agvkdh6mnmux453cq3g4wse",
+        "consensus_key_pk": "tpknam1qrv7y4wsx68339sdwrmv6z28r00taaf5ah2e38dkxms23z5hemr5sd66xt6",
+        "net_address": "95.217.16.5:26656"
+    },
+    "1DF64AFA8B9FA6BE2109391FB7D4A3681CFE6996": {
+        "alias": "UbikCapital",
+        "nam_address": "tnam1q8jpmstfc07lkj9tu7un9c76h69kfsfsmyqs9clv",
+        "consensus_key_pk": "tpknam1qrgsn0jws03kc33n0y33e77tvavjf60uve30n5yh2mad5zpvw3t4z8rhsew",
+        "net_address": "94.130.53.94:26656"
+    },
+    "0385DF66D4EC169F30E578356D0BF7AA0C2C5BAE": {
+        "alias": "Upnode",
+        "nam_address": "tnam1q88gvs2m2sg98vuy5js8gyewysz655c8myz4xx98",
+        "consensus_key_pk": "tpknam1qpmmajgs6c6rpt6pd2gsmzrg9nwrr8lpgmau8uy2uryxstlzkvrhj7kh6qp",
+        "net_address": "95.217.85.149:36656"
+    },
+    "4C84F5915C39336A0CC84C64638C1118E15A9C38": {
+        "alias": "silent",
+        "nam_address": "tnam1q8h9p66fz526500xlxjhkpns3xsnxgtmgc6jd888",
+        "consensus_key_pk": "tpknam1qrglvg8q08uqdqkhv2cze4yccwrsa3q9eju9cmyn34rqp28pkj4lk6d2ttl",
+        "net_address": "65.108.75.107:58656"
+    },
+    "95516F3FF3CBF906968A1079FD32D7F6362B47D9": {
+        "alias": "BlackBlocks",
+        "nam_address": "tnam1qyguhhm90xs7g3erhy5976ldxfj3de73ngdx72qu",
+        "consensus_key_pk": "tpknam1qpxem09l5d38zc9wus40k670450r287u4uvjnkpkmgcuatd9ex3lusncwnj",
+        "net_address": "65.108.131.189:26656"
+    },
+    "E77FEFF7D6B98EF8BEB27F7EF3FABD0031074C69": {
+        "alias": "IRISnet",
+        "nam_address": "tnam1qxcudgqkf03hfuv43zjfe76julypzdwxyggjjhk2",
+        "consensus_key_pk": "tpknam1qqwdwp7wfv0man6u90j0ppr9hgkukwguylgs7wlq94yx5cutwydqcequ6ps",
+        "net_address": "34.80.225.203:26656"
+    },
+    "5E7E3E704FAD60B0630C65274681CB60D4E6109E": {
+        "alias": "DokiaCapital",
+        "nam_address": "tnam1q9ktvdwucaslp49mnr8avf650xju57mmpgu79uf7",
+        "consensus_key_pk": "tpknam1qrsh6tct6ax5zgm32asv6xmjg3xe0e2t6pc3wllkku6kph4f8vtlkgheqkc",
+        "net_address": "37.120.245.26:26656"
+    },
+    "D4625C77BD7B4DF522FC9635BCFEDE4C7498F92B": {
+        "alias": "Nodeify",
+        "nam_address": "tnam1qyvwsx5aj96szaxdydfx556pf7v72cutuy6j663v",
+        "consensus_key_pk": "tpknam1qzamwwp9u03099f2x4535jdtr5g740d4dsnkzcznnhvmhcky0pfjc6s7rxk",
+        "net_address": "88.198.200.207:26656"
+    },
+    "9D1F41A61D476DB4A8E5F91FE7455DA6E9C67474": {
+        "alias": "maxpower-01",
+        "nam_address": "tnam1qygfl7c46xjt3dac6huvl2acvz063an9xqkkpuzj",
+        "consensus_key_pk": "tpknam1qqr9e5um66jwt8gwgx5d0jlnj6emfj8739z6uy6g2zvtkdjen5hdqagyeet",
+        "net_address": "94.31.87.123:26656"
+    },
+    "197E6BD5675B8B063DCEAA559A5DDFFEB5E500C3": {
+        "alias": "knowable",
+        "nam_address": "tnam1q8hkmve7y0spwvchsf24hqnpfemrfyyu85c9fqed",
+        "consensus_key_pk": "tpknam1qp4th3rg3ttxqv9u74t7le9v3ddd4xmjmnumv0fsg7k23v8zzenvsl5s6g7",
+        "net_address": "72.12.130.222:46656"
+    },
+    "A1E1D8455B6FFF29E8D402CDF5E2991F2ED81179": {
+        "alias": "stakesystems",
+        "nam_address": "tnam1qyfmtehvnrrcwtjueygvvqrwy43dtw3r9uwe5tf7",
+        "consensus_key_pk": "tpknam1qqylg8afja06pr9fc329fdr5uj5duq4c6p676j223urzvzashvcjy3vgkd9",
+        "net_address": "142.132.151.35:26656"
+    },
+    "ECCB99DE2BB6889DE0F6F57F4A1FB6F1656A4B8A": {
+        "alias": "kjnodes",
+        "nam_address": "tnam1qyq8cmlksxny6azher44mwffxcgjukjnrcxjgs2m",
+        "consensus_key_pk": "tpknam1qqrq0srnzs7ezmqxzm4twy6zq2mg55h3l5smeg0zgcwvtyf993rn6xf04vp",
+        "net_address": "116.202.227.117:26656"
+    },
+    "EB240789E41D76936D080EA133461714A00A8A8F": {
+        "alias": "Lavender",
+        "nam_address": "tnam1qxx3sa05x54re66kwgxe4tksqj87fcprzcgvl4r5",
+        "consensus_key_pk": "tpknam1qrehq3r3wgw7lg32aurqz0am25rw8ly9z54757vy2z7xxwpx6m0s5cw76ce",
+        "net_address": "142.132.209.236:20056"
+    },
+    "35351448982F24250484F18C35E982AC5EACD145": {
+        "alias": "infradao",
+        "nam_address": "tnam1qy2s5d5puuz5pu4rnwwtmdye3ye5h0nvtqwxak39",
+        "consensus_key_pk": "tpknam1qzmavhqqdsanpnw3uqsy090wy8lmgjp6n5vl4sz8dlz7g73ls249gsg2flj",
+        "net_address": "195.201.107.146:26656"
+    },
+    "E083155AEBD6C3A2FF175F750D65691FA47EB912": {
+        "alias": "StakeUp",
+        "nam_address": "tnam1qyk2uatr79tuxlspywcfytd3mmuhr369ecgwte36",
+        "consensus_key_pk": "tpknam1qrg6756w8jurm2t3jkj5rdg2sl9y3jwg3fpjfu7yrllhksgzjnsas3hq4df",
+        "net_address": "213.239.207.175:26656"
+    },
+    "F71DC91AFAD44CF81CA11C87D7762AB1450BB3F3": {
+        "alias": "CosmicValidator",
+        "nam_address": "tnam1qxrjvm7na2tesg5emhyp2ydcx0fqv62a2qefu65p",
+        "consensus_key_pk": "tpknam1qptzgplur5uq7xg00wp4qgvzezlvfdxumnqn83yfrqgakhhjthk4jej5xsf",
+        "net_address": "161.97.142.92:26656"
+    },
+    "88B9083A3B261A113B49B3528FD6EC1C5E8C9145": {
+        "alias": "Staking4All",
+        "nam_address": "tnam1q9hn59g0cpzmyhs799hr32v8q4ar9vg03gpakqqs",
+        "consensus_key_pk": "tpknam1qp8yexzlpvlmzagz7ltdc80aely4mpdsrctr8268rh5vzrzf8dkgvnp7j7t",
+        "net_address": "95.216.225.15:26656"
+    },
+    "E71091C887A81987C3F403EEFD8A069665D82A52": {
+        "alias": "Forbole",
+        "nam_address": "tnam1qy9qcc094fq6st3s22v6lkemjdycdyrl2529d9ku",
+        "consensus_key_pk": "tpknam1qpke7nssxvweflkrpp0gdgf6mvdjl9eggu8fs47lzvfpl2733clxqvze43m",
+        "net_address": "154.91.1.69:26656"
+    },
+    "4777F1971572B5A22EE8FBD64777383E0647AC4D": {
+        "alias": "ZKValidator",
+        "nam_address": "tnam1qyqs0erg46fnu5rlu34ek3nkkgv8fcmzku4m9uxa",
+        "consensus_key_pk": "tpknam1qqhj7xmvlkknq3ywl3xm76r75cx3y09gsajjc9rt2z7actgd9fpu5nvxd9w",
+        "net_address": "80.79.4.132:26656"
+    },
+    "44092E5AEA6F6583644071066B42396C44749C48": {
+        "alias": "Validatrium",
+        "nam_address": "tnam1qxypnz2hsgdn6avhz6szk82c6nzxq7gvvvexmnrt",
+        "consensus_key_pk": "tpknam1qp8yqs75fnghfyfy87ndmel6slz9wtqw4upzx5pkuswfryxj7ex0s4fddek",
+        "net_address": "65.108.101.19:20156"
+    },
+    "09AB496450AA3A96D2DE8FDDE60B422DF3E37CD5": {
+        "alias": "Kelpie",
+        "nam_address": "tnam1q9zefe5rmxtvnzc3m5ttw056ct969lmycs7geycn",
+        "consensus_key_pk": "tpknam1qq8ezx6ukgll7yxpmclcuw26y2elv3szm83n3rwpzzxsthyk76m4cvqkl6j",
+        "net_address": "144.91.87.99:26656"
+    },
+    "86CBD425986B81D900AF1726396DAC31CD38D4C6": {
+        "alias": "WhisperNode",
+        "nam_address": "tnam1q8z0zfx4yzy373skjt2c744p6jsfpdca7upw9rcu",
+        "consensus_key_pk": "tpknam1qqh7kvx9kpmx6ffneygc6c6d7hk2c0y9qmq4vvycmewhml7z7cfqg6ecute",
+        "net_address": "162.55.94.142:26656"
+    },
+    "26ADD41088220A100BB82416F19746C2026E966A": {
+        "alias": "Wetez",
+        "nam_address": "tnam1q8lx8va8vmqwftfw3435q8e9ddpyddtkw56mr3tp",
+        "consensus_key_pk": "tpknam1qqfdm00evm7daf7pnarr74kn9yx80n6mvxpnr8ad0x42tfvrl33475uycuh",
+        "net_address": "65.108.73.124:28656"
+    },
+    "EE93CE31EF1338D7FDA1C7411F2909F51DAF155E": {
+        "alias": "sirouk",
+        "nam_address": "tnam1qyl03jqx3nafc2dcjgymx8jmc75ex946v56wangr",
+        "consensus_key_pk": "tpknam1qp4hd75n467x0eelw4u0htaypwuyv5e89gs58e22thyrntfve758qmw0yma",
+        "net_address": "136.175.9.205:26656"
+    },
+    "2A655AB499D768301F5143300F97CFD1DC914D3F": {
+        "alias": "gnosed",
+        "nam_address": "tnam1q9nk4w63rfjcvcq8yakjy2eyzh394wechqyv7flr",
+        "consensus_key_pk": "tpknam1qzdgrdnhv6enscqep8we2zjjsfrwdu9w9dkjzaett8ztm0uaclj02mfwt7l",
+        "net_address": "144.76.221.57:26656"
+    },
+    "5F4FA842E77A3594686D2A1109D20EC4DC207032": {
+        "alias": "polkachu",
+        "nam_address": "tnam1qxzwta6uhcsv40a8l4g5t07q0ey50c9dlyt3s272",
+        "consensus_key_pk": "tpknam1qr5yvv9xs4f9xwx7sxecslfsyqleh52ws8kpd688a5znxcgu04vlgz84f3w",
+        "net_address": "37.27.59.71:26656"
+    },
+    "55F3B3D0CDCB6757578134633AB3C8D8F8D30EF9": {
+        "alias": "PathrockNetwork",
+        "nam_address": "tnam1q8crv350kjm6shls7lmmwsyn8n6tn4vyjyeyzk6n",
+        "consensus_key_pk": "tpknam1qza3eafzsekzxy2l74zfl04uvma3xk5epqp2s5ztkt0aa8dy06zsv9mkkwl",
+        "net_address": "176.9.50.55:26656"
+    },
+    "6759E306B23395D02B561696E80BA1FA9190C577": {
+        "alias": "Nodeguardians",
+        "nam_address": "tnam1q9kdhreynpfg5c2wvnwvherfl3jmuz6rlq09yqcp",
+        "consensus_key_pk": "tpknam1qz67rk5f5qaqs6lqq4slsmp289x4mqlyh6q3uzq9u0769wrrf5jf7h4s604",
+        "net_address": "135.181.165.157:26656"
+    },
+    "3BF274F23E248331504706C1B4476D5DDB490475": {
+        "alias": "binary_builders",
+        "nam_address": "tnam1qxaf6f95elsn7w54tz9txlmlufrsskgdugfv8t6v",
+        "consensus_key_pk": "tpknam1qzh062kkrzcxqzj8psny4h44e7yqml53jwq2yd7xau9r0mupslxtkd73xgj",
+        "net_address": "37.27.43.114:26656"
+    },
+    "729E7875F6104189D01A8BFB4A855279D5C44456": {
+        "alias": "01node",
+        "nam_address": "tnam1q9flpn456nuncfvj9k75mnhwndezmw7dnvmczrjv",
+        "consensus_key_pk": "tpknam1qqw3hzzp6d09tj8w42a2h9ek98zmtgslaqydtmcuc607c2qm6anuvudcagl",
+        "net_address": "195.14.6.173:26656"
+    },
+    "8143068932466C783B19D1A0074CA9C13DBC3F9A": {
+        "alias": "Moonode",
+        "nam_address": "tnam1qxdlvt04892jx2m5y3dsqagrlh5grreuqgfmtftm",
+        "consensus_key_pk": "tpknam1qqe0vtqhpupgwjrq0s797jc646x3fajclkc83lyn5d3jw0v3rj2d76r82wx",
+        "net_address": "144.76.65.89:26656"
+    },
+    "C6091F7C72D726553E930D2D1F02F40105A5DB44": {
+        "alias": "Tecnodes",
+        "nam_address": "tnam1q8c5j8gjaw7yz2fllzputv2cfn9jjktlzgyezv44",
+        "consensus_key_pk": "tpknam1qray495uvlt34qwutshkues67xnlsu2sk2axejdas5cw37eh6hm2v2f39qn",
+        "net_address": "65.108.229.120:26656"
+    },
+    "7D8784F2DD6FDCFF7A78087B0D7CDFB2289E45BA": {
+        "alias": "5ElementsNodes",
+        "nam_address": "tnam1q89kns38yfru4jexhk5d6wx40zzmq9p5pcp3etpf",
+        "consensus_key_pk": "tpknam1qz3anfky4dppzvvxcr0r7hkdzf6ru6eduhrn4gr0ls6pxp5penk7ccywm9w",
+        "net_address": "176.9.45.137:26656"
+    },
+    "F21EA430763CF7658BEA63B2CF5A5CFC9F317239": {
+        "alias": "encipher",
+        "nam_address": "tnam1q929d8arfku864ygpt73tsllg2zm0p6sjy0mqdzg",
+        "consensus_key_pk": "tpknam1qpnp6htv5arerepck80g60kc306tq6tzqd8j9hnkwzj6pg46gcmj6p0vrlc",
+        "net_address": "65.109.39.125:26656"
+    },
+    "E11959552B16300A21E0C47780CCFC08B7B08A41": {
+        "alias": "StakeThat",
+        "nam_address": "tnam1q8et68khd5l4jfzhynvdr6s2wsz3tcn3e53jg5mr",
+        "consensus_key_pk": "tpknam1qrpu6rz33u37kxquq9t4kp3ewcjt06tl2e8khlnctsakmtu8wvskgfqsd8w",
+        "net_address": "135.181.91.243:26656"
+    },
+    "35FBB8A3342CB321A42EDBEB15F784CCCFBFF285": {
+        "alias": "xyznodes",
+        "nam_address": "tnam1q928fzf5tvr8mstxj28x0k6a3pege27lcsxtp5qs",
+        "consensus_key_pk": "tpknam1qzpum3pj89jhav3g4qcw0xfzfv8ypc4npqkhe8ug7frl8ura97u8y6vwxf8",
+        "net_address": "84.247.128.11:26656"
+    },
+    "0967DCE6EEEF8E054229CE8B9BAC8AC38ECB70B1": {
+        "alias": "nodiums",
+        "nam_address": "tnam1qyueg5eyjv2lxujzy064g29drrl38nydzq54u4ah",
+        "consensus_key_pk": "tpknam1qq2a4a6xtaqplks45pc008mc3vujtrpxs8y9vku2muz3u4a2qmzpz0kprum",
+        "net_address": "65.108.8.251:26656"
+    },
+    "835DD26474008AF69330EC0D91F45BA268C209F9": {
+        "alias": "Neuler",
+        "nam_address": "tnam1qx6u8kz57nvnev89w3er9khr7c4ya76jgckp2rm5",
+        "consensus_key_pk": "tpknam1qqcnlfmm7ggxfdcsf56ncqkz9kdghxat58hz6rsvjv872frx0tv67aq5vac",
+        "net_address": "51.91.118.45:26656"
+    },
+    "E6420353A21A18D6DA06053437E7DFB557CA0171": {
+        "alias": "DoraFactory",
+        "nam_address": "tnam1q9tc2uq3wul6gkuzssc93aere7xs7hltacfaha4n",
+        "consensus_key_pk": "tpknam1qpp9nagnhgeyk73wj844sh7c96ezwhhs38gv02x873as70vjgerczsakq2s",
+        "net_address": "34.28.125.251:26656"
+    },
+    "1752596117BC8CDD6E18E9284FFE629D0C69B7B7": {
+        "alias": "swiss-staking",
+        "nam_address": "tnam1q9sdarpylwxd5vv3e8u6wstrpz052jhls5g4a3wg",
+        "consensus_key_pk": "tpknam1qr5s8ltthxyy3ngfwjtvvdvmgw4w9utlqhc5h3xr3hlh298s6emr2csaef4",
+        "net_address": "173.212.223.233:36656"
+    },
+    "51CF7BDDCDB74B4C3C485ABF9F813BC1684CB303": {
+        "alias": "B-Harvest",
+        "nam_address": "tnam1q9zrv90vj2er6trph29hd4y9t5lhpllxyvtyp9v4",
+        "consensus_key_pk": "tpknam1qp38n6k8qaw3zjmd2l0rt67xrvyaf22y63t7ej69zyw5zy7fauje2u6sh2y",
+        "net_address": "52.8.123.83:26656"
+    },
+    "A37165141E425584FD76B542EB32175B5208D69F": {
+        "alias": "ContributionDAO",
+        "nam_address": "tnam1qxzmkvh9d8guftam56qznfxenxwsgp56xc980ggm",
+        "consensus_key_pk": "tpknam1qzs63cqkf8ezf5fhnryjzv7kfulxzh2ayl0jfjvzs8n3nsmuhayrs2c9xhw",
+        "net_address": "15.235.214.56:26656"
+    },
+    "C80FF3F21025656FE5D3E9BB7BD05B65B4473FE5": {
+        "alias": "lemniscap",
+        "nam_address": "tnam1q8xqpalc2rlkdr6z4vgs9u0yhd8a908gdckqfjew",
+        "consensus_key_pk": "tpknam1qqmefqhqmg3fjptrzslhnnhtaw6yy99sfd6p2lqaewv468vujqfa7c6hv56",
+        "net_address": "65.21.163.230:26656"
+    },
+    "0BD5C32BDA0DDA6E4EDF8B210F8A9B3BFA946299": {
+        "alias": "KingSuper",
+        "nam_address": "tnam1qxe9a4xn6ujjap5ps3p2zmwl243shdzeuvl8munz",
+        "consensus_key_pk": "tpknam1qp3ramcwn0cvjk5w078f6z0tjysnhztz2ukgy6egspy47hvauch6vcxu279",
+        "net_address": "37.27.69.100:26656"
+    }
+}
